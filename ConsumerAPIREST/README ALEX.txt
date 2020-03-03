@@ -1,0 +1,1 @@
+﻿Install-Package Newtonsoft.Json -Version 3.5.8
